@@ -1,4 +1,5 @@
 import java.util.*;
+//Testing that this actually works
 public class Collatz
 {
     public static int getIntegerInput() {
